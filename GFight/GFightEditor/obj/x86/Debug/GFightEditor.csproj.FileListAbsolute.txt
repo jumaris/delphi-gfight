@@ -1,0 +1,10 @@
+C:\Plínio\Projects\C#\GFight\GFightEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Plínio\Projects\C#\GFight\GFightEditor\obj\x86\Debug\GFightEditor.Properties.Resources.resources
+C:\Plínio\Projects\C#\GFight\GFightEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Plínio\Projects\C#\GFight\GFightEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Plínio\Projects\C#\GFight\GFightEditor\bin\Debug\GFightEditor.exe
+C:\Plínio\Projects\C#\GFight\GFightEditor\bin\Debug\GFightEditor.pdb
+C:\Plínio\Projects\C#\GFight\GFightEditor\obj\x86\Debug\GFightEditor.exe
+C:\Plínio\Projects\C#\GFight\GFightEditor\obj\x86\Debug\GFightEditor.pdb
+C:\Plínio\Projects\C#\GFight\GFightEditor\obj\x86\Debug\GFightEditor.Form1.resources
+C:\Plínio\Projects\C#\GFight\GFightEditor\obj\x86\Debug\GFightEditor.frmGFightEditor.resources
