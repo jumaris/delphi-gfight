@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/03/27 16:28:58.000.945,=C:\Users\plinio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/03/27 16:30:08.000.917,C:\Users\plinio\Documents\RAD Studio\Projects\Unit1.fmx=C:\Plínio\Projects\C#\GFightD\uMain.fmx</Transaction>
+    <Transaction>2012/03/27 16:30:08.000.917,C:\Users\plinio\Documents\RAD Studio\Projects\Unit1.pas=C:\Plínio\Projects\C#\GFightD\uMain.pas</Transaction>
+    <Transaction>2012/03/27 16:30:47.000.147,C:\Users\plinio\Documents\RAD Studio\Projects\Project1.dproj=C:\Plínio\Projects\C#\GFightD\GFightD.dproj</Transaction>
+    <Transaction>2012/03/27 16:30:59.000.121,=C:\Plínio\Projects\C#\GFightD\Unit1.pas</Transaction>
+    <Transaction>2012/03/27 16:31:08.000.556,C:\Plínio\Projects\C#\GFightD\Unit1.pas=C:\Plínio\Projects\C#\GFightD\uEss.pas</Transaction>
+    <Transaction>2012/03/27 16:52:59.000.308,C:\Plínio\Projects\C#\GFightD\uEss.pas=C:\Plínio\Projects\C#\GFightD\uBuilding.pas</Transaction>
+    <Transaction>2012/03/27 17:10:54.000.058,=C:\Plínio\Projects\C#\GFightD\Unit1.pas</Transaction>
+    <Transaction>2012/03/27 17:11:02.000.760,C:\Plínio\Projects\C#\GFightD\Unit1.pas=C:\Plínio\Projects\C#\GFightD\uBasics.pas</Transaction>
+  </Transactions>
+</BorlandProject>
